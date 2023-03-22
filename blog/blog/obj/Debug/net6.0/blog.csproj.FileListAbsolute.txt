@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\bin\Debug\net6.0\blog.exe
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\bin\Debug\net6.0\blog.deps.json
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\bin\Debug\net6.0\blog.runtimeconfig.json
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\bin\Debug\net6.0\blog.dll
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\bin\Debug\net6.0\blog.pdb
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\blog.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\blog.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\blog.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\blog.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\blog.dll
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\refint\blog.dll
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\blog.pdb
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\blog.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\fundamentals\blog\blog\obj\Debug\net6.0\ref\blog.dll
